@@ -6,3 +6,6 @@ num3
 
 aveNum = num1/2
 aveNum
+
+multiplenum = num1 * num2
+multiplenum
